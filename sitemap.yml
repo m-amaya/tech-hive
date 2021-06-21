@@ -1,0 +1,113 @@
+categories:
+  - web-dev:
+      title: "Web Development"
+      categories:
+        - framework:
+            title: "Web Frameworks"
+            categories:
+              - css:
+                  title: "CSS Frameworks"
+              - frontend:
+                  title: "Frontend Frameworks"
+              - server:
+                  title: "Server Frameworks"
+        - web-lang:
+            title: "Web Languages"
+            categories:
+              - basic:
+                  title: "Basic Web Languages"
+              - templating:
+                  title: "Templating Languages"
+              - css-pre:
+                  title: "CSS Preprocessors"
+              - js-alt:
+                  title: "JavaScript Alternatives"
+        - tool-lib:
+            title: "Tool Libraries"
+            categories:
+              - web-tool:
+                  title: "Web Tools"
+                  categories:
+                    - pkg-mgr:
+                        title: "Package Managers"
+                    - module-bundler:
+                        title: "Module Bundlers"
+                    - task-runner:
+                        title: "Task Runners"
+                    - static-gen:
+                        title: "Static Site Generators"
+                    - test-lib:
+                        title: "Testing Libraries"
+                    - http:
+                        title: "HTTP Client Libraries"
+                    - ws:
+                        title: "WebSocket Libraries"
+                    - utility:
+                        title: "Utility Libraries"
+              - front-tool:
+                  title: "Frontend Tools"
+                  categories:
+                    - browser:
+                        title: "Browsers"
+                    - state-mgmt:
+                        title: "State Management"
+                    - css-in-js:
+                        title: "CSS-in-JS Libraries"
+              - serve-tool:
+                  title: "Server Tools"
+                  categories:
+                    - auth:
+                        title: "Authentication Libraries"
+                    - db-lib:
+                        title: "Database Connection Libraries"
+                    - async:
+                        title: "Asynchronous Libraries"
+                    - pm:
+                        title: "Process Manager Libraries"
+        - devop:
+            title: "DevOps"
+            categories:
+              - cloud-prov:
+                  title: "Cloud Service Providers"
+              - container:
+                  title: "Container Platforms"
+              - ci-cd:
+                  title: "CI/CD Tools"
+  - software-dev:
+      title: "Software Development"
+      categories:
+        - prog-lang:
+            title: "Programming Languages"
+            categories:
+              - high-level:
+                  title: "High-Level Programming Languages"
+              - data-fmt:
+                  title: "Data Formats"
+              - query:
+                  title: "Query Languages"
+        - db:
+            title: "Databases"
+            categories:
+              - sql:
+                  title: "SQL"
+              - nosql:
+                  title: "NoSQL"
+        - cli-tool:
+            title: "CLI Tools"
+            categories:
+              - shell:
+                  title: "Shells"
+              - txt-edit:
+                  title: "Text Editors"
+              - file-lookup:
+                  title: "File Lookup"
+              - terminal:
+                  title: "Terminal Enhancers"
+              - vcs:
+                  title: "Version Control Systems"
+              - http-client:
+                  title: "HTTP Clients"
+              - http-server:
+                  title: "HTTP Servers"
+              - misc:
+                  title: "Miscellaneous"
