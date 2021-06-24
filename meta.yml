@@ -1,0 +1,1005 @@
+categories:
+  - web:
+      title: "Web Development"
+      categories:
+        - framework:
+            title: "Frameworks"
+            categories:
+              - frontend:
+                  title: "Frontend Frameworks"
+                  categories:
+                    - frontend:
+                        title: "Frontend Framework"
+                    - css:
+                        title: "CSS Framework"
+                    - css-js:
+                        title: "CSS-in-JS Framework"
+              - backend:
+                  title: "Backend Frameworks"
+                  categories:
+                    - stat-site-gen:
+                        title: "Static Site Generator"
+                    - mvc:
+                        title: "MVC Framework"
+                    - fullstack:
+                        title: "Full-Stack Framework"
+              - content-mgmt:
+                  title: "Content Management"
+                  categories:
+                    - disc:
+                        title: "Discussion"
+                    - chat:
+                        title: "Chat"
+                    - blog:
+                        title: "Blogging"
+                    - cms:
+                        title: "CMS"
+                    - forum:
+                        title: "Forum"
+                    - cms:
+                        title: "Content Management System"
+        - ui:
+            title: "UI"
+            categories:
+              - design:
+                  title: "Design"
+                  categories:
+                    - icon:
+                        title: "Icon"
+                    - typography:
+                        title: "Typography"
+                    - component-lib:
+                        title: "Component Library"
+                    - design-sys:
+                        title: "Design System"
+                    - storybook:
+                        title: "Storybook"
+              - inputs:
+                  title: "Inputs"
+                  categories:
+                    - text:
+                        title: "Text Inputs"
+                        categories:
+                          - autocomplete:
+                              title: "Autocomplete"
+                          - textfield:
+                              title: "Textfield"
+                          - virtual-keyboard:
+                              title: "Virtual Keyboard"
+                          - html-editor:
+                              title: "HTML Editor"
+                          - validated-masked:
+                              title: "Validated/Masked Input"
+                          - wysiwyg-editor:
+                              title: "WYSIWYG Editor"
+                    - select:
+                        title: "Select Inputs"
+                        categories:
+                          - select:
+                              title: "Select"
+                          - multi-select:
+                              title: "Multi-Select"
+                          - dropdown:
+                              title: "Dropdown"
+                          - radio:
+                              title: "Radio Button"
+                          - checkbox:
+                              title: "Checkbox"
+                          - range:
+                              title: "Range Slider"
+                          - date-pick:
+                              title: "Date Picker"
+                          - star-rating:
+                              title: "Star Rating"
+                    - media:
+                        title: "Media Inputs"
+                        categories:
+                          - screen-cap:
+                              title: "Screen Capture"
+                          - file-upload:
+                              title: "File Uploader"
+                          - img-pick:
+                              title: "Image Picker"
+                          - camera:
+                              title: "Camera"
+                    - other:
+                        title: "Other Inputs"
+                        categories:
+                          - clipboard:
+                              title: "Clipboard"
+                          - calendar:
+                              title: "Calendar"
+                          - drag-drop:
+                              title: "Drag & Drop List"
+                          - forms:
+                              title: "Forms"
+                          - validation:
+                              title: "Validation"
+              - components:
+                  title: "UI Components"
+                  categories:
+                    - buttons:
+                        title: "Buttons"
+                        categories:
+                          - button:
+                              title: "Button"
+                          - floating:
+                              title: "Floating Button"
+                          - swipe:
+                              title: "Swipe Button"
+                    - modals-popups:
+                        title: "Modals & Popups"
+                        categories:
+                          - dialog:
+                              title: "Dialog"
+                          - popup:
+                              title: "Popup"
+                          - tooltip:
+                              title: "Tooltip"
+                          - toast:
+                              title: "Toast"
+                          - notification:
+                              title: "Notification"
+                          - lightbox:
+                              title: "Lightbox"
+                          - cookie:
+                              title: "Cookie"
+                          - onboarding:
+                              title: "Onboarding Tour"
+                    - data:
+                        title: "Data Display"
+                        categories:
+                          - chart:
+                              title: "Chart"
+                          - vis:
+                              title: "Data Visualization"
+                          - graph:
+                              title: "Graph"
+                          - table:
+                              title: "Table"
+                          - pivot-table:
+                              title: "Pivot Table"
+                          - tree:
+                              title: "Tree"
+                          - list:
+                              title: "List"
+                          - drag-drop:
+                              title: "Drag & Drop"
+                          - kanban:
+                              title: "Kanban"
+                          - map:
+                              title: "Map"
+                          - heatmap:
+                              title: "Heatmap"
+                          - avatar:
+                              title: "Avatar"
+                          - clock:
+                              title: "Clock"
+                          - marquee:
+                              title: "Marquee"
+                          - tags:
+                              title: "Tags"
+                          - word-cloud:
+                              title: "Word Cloud"
+                          - img-view:
+                              title: "Image Viewer"
+                          - gallery:
+                              title: "Gallery"
+                          - carousel:
+                              title: "Carousel"
+                          - timeline:
+                              title: "Timeline"
+                          - audio-play:
+                              title: "Audio Player"
+                          - video-play:
+                              title: "Video Player"
+                    - navigation:
+                        title: "Navigation"
+                        categories:
+                          - header:
+                              title: "Header Navigation"
+                          - tabs:
+                              title: "Tabs Navigation"
+                          - accordion:
+                              title: "Accordion"
+                          - scroll:
+                              title: "Scroll"
+                          - infinite-scroll:
+                              title: "Infinite Scroll"
+                          - pagination:
+                              title: "Pagination"
+                          - menus:
+                              title: "Menus"
+                          - action-sheet:
+                              title: "Action Sheet"
+                    - other:
+                        title: "Other Components"
+                        categories:
+                          - animation:
+                              title: "Animation"
+                          - lazy-load:
+                              title: "Lazy Load"
+                          - spinner:
+                              title: "Loading Spinner"
+                          - skeleton:
+                              title: "Loading Skeleton"
+                          - scroll-bar:
+                              title: "Scroll Bar"
+                          - prog-bar:
+                              title: "Progress Bar"
+                          - parallax:
+                              title: "Parallax"
+              - layout:
+                  title: "Layout"
+                  categories:
+                    - grid:
+                        title: "Grid"
+                    - container:
+                        title: "Container"
+                    - split-pane:
+                        title: "Split Pane"
+              - render:
+                  title: "Client Rendering"
+                  categories:
+                    - html:
+                        title: "HTML Rendering"
+                    - markdown:
+                        title: "Markdown Rendering"
+                    - syntax:
+                        title: "Syntax Highlighting"
+                    - pdf-view:
+                        title: "PDF Viewer"
+                    - printing:
+                        title: "Printing"
+                    - barcode-gen:
+                        title: "Barcode Generator"
+              - gestures:
+                  title: "Gestures"
+                  categories:
+                    - keyboard:
+                        title: "Keyboard Events"
+                    - mouse:
+                        title: "Mouse Events"
+                    - touch:
+                        title: "Touch Events"
+                    - swipe:
+                        title: "Swipe Events"
+              - graphics:
+                  title: "Graphics"
+                  categories:
+                    - canvas:
+                        title: "Canvas"
+                    - color-pick:
+                        title: "Color Picker"
+                    - 3d:
+                        title: "3D"
+                    - webgl:
+                        title: "WebGL"
+                    - vr:
+                        title: "Virtual Reality"
+                    - ar:
+                        title: "Augmented Reality"
+              - vis-fx:
+                  title: "Visual Effects"
+                  categories:
+                    - blur:
+                        title: "Blur Effect"
+                    - gradient:
+                        title: "Gradient"
+                    - other:
+                        title: "Other Visual Effects"
+        - server:
+            title: "Server"
+            categories:
+              - crypto:
+                  title: "Cryptocurrency"
+                  categories:
+                    - tools:
+                        title: "Cryptocurrency Tools"
+                    - mining:
+                        title: "Cryptocurrency Mining"
+                    - blockchain:
+                        title: "Blockchain"
+              - computation:
+                  title: "Computation"
+                  categories:
+                    - color:
+                        title: "Color"
+                    - compression:
+                        title: "Compression"
+                    - obfuscation:
+                        title: "Obfuscation"
+                    - machine-learn:
+                        title: "Machine Learning"
+                    - machine-vis:
+                        title: "Machine Vision"
+                    - map-red:
+                        title: "Map Reduce"
+                    - sorting:
+                        title: "Sorting"
+              - file-fmt:
+                  title: "File Formats"
+                  categories:
+                    - css-parse:
+                        title: "CSS Parser"
+                    - csv-build:
+                        title: "CSV Builder"
+                    - csv-parse:
+                        title: "CSV Parser"
+                    - csv-json:
+                        title: "CSV to JSON"
+                    - json-csv:
+                        title: "JSON to CSV"
+                    - docx-build:
+                        title: "DocX Builder"
+                    - docx-parse:
+                        title: "DocX Parser"
+                    - pdf-gen:
+                        title: "PDF Generator"
+                    - pptx-build:
+                        title: "PPTX Builder"
+                    - xml-build:
+                        title: "XML Builder"
+                    - xml-parse:
+                        title: "XML Parser"
+                    - html-parse:
+                        title: "HTML Parser"
+                    - xlsx-parse:
+                        title: "XLSX Parser"
+                    - xlsx-build:
+                        title: "XLSX Builder"
+                    - yaml-parse:
+                        title: "YAML Parser"
+                    - form-data:
+                        title: "Form Data"
+              - math:
+                  title: "Math"
+                  categories:
+                    - math:
+                        title: "Mathematics"
+                    - acc:
+                        title: "Accounting"
+                    - complex-num:
+                        title: "Complex Numbers"
+                    - stats:
+                        title: "Statistics"
+              - media-proc:
+                  title: "Media Processing"
+                  categories:
+                    - qr-gen:
+                        title: "QR Code Generator"
+                    - qr-scan:
+                        title: "QR Code Scanner"
+                    - img-conv:
+                        title: "Image Conversion"
+                    - vid-conv:
+                        title: "Video Conversion"
+                    - img-mani:
+                        title: "Image Manipulation"
+                    - vid-mani:
+                        title: "Video Manipulation"
+                    - face-det:
+                        title: "Face Detection"
+                    - nsfw-det:
+                        title: "NSFW Detection"
+                    - html-img:
+                        title: "HTML-to-Image"
+                    - web-shot:
+                        title: "Website Screenshot"
+                    - ocr:
+                        title: "OCR"
+                    - comp-vis:
+                        title: "Computer Vision"
+              - mvc:
+                  title: "MVC"
+                  categories:
+                    - css-proc:
+                        title: "CSS Processor"
+                    - routing:
+                        title: "Routing"
+                    - email-templ:
+                        title: "Email Templating Engine"
+                    - html-templ:
+                        title: "HTML Templating Engine"
+              - networking:
+                  title: "Networking"
+                  categories:
+                    - bittorrent:
+                        title: "BitTorrent"
+                    - ftp:
+                        title: "FTP"
+                    - graphql:
+                        title: "GraphQL"
+                    - grpc:
+                        title: "gRPC"
+                    - http:
+                        title: "HTTP"
+                    - http-cookie:
+                        title: "HTTP Cookie Parser"
+                    - http-proxy:
+                        title: "HTTP Proxy"
+                    - http-retry:
+                        title: "HTTP Retry"
+                    - ldap:
+                        title: "LDAP"
+                    - real-time:
+                        title: "Real-Time"
+                    - sftp:
+                        title: "SFTP"
+                    - smtp:
+                        title: "SMTP"
+                    - socks:
+                        title: "SOCKS"
+                    - ssl:
+                        title: "SSL"
+                    - stream:
+                        title: "Streaming"
+                    - tcp:
+                        title: "TCP"
+                    - tunneling:
+                        title: "Tunneling"
+                    - udp:
+                        title: "UDP"
+                    - vpn:
+                        title: "VPN"
+                    - webrtc:
+                        title: "WebRTC"
+                    - wifi:
+                        title: "Wi-Fi"
+                    - ws:
+                        title: "WebSocket"
+              - sys:
+                  title: "System"
+                  categories:
+                    - cli:
+                        title: "CLI"
+                    - cli-args:
+                        title: "CLI Arguments"
+                    - repl:
+                        title: "REPL"
+                    - env-var:
+                        title: "Environment Variables"
+                    - proc-mgmt:
+                        title: "Process Management"
+                    - thread:
+                        title: "Threading"
+                    - sched:
+                        title: "Scheduling"
+                    - job-q:
+                        title: "Job Queues"
+                    - mock-serv:
+                        title: "Mock Server"
+                    - os:
+                        title: "Operating System"
+              - txt-proc:
+                  title: "Text Processing"
+                  categories:
+                    - str-manip:
+                        title: "String Manipulation"
+                    - reg-exp:
+                        title: "Regular Expression"
+                    - url-parse:
+                        title: "URL Parsing"
+                    - key-extract:
+                        title: "Keyword Extraction"
+                    - spam-filter:
+                        title: "Spam Filter"
+                    - transl:
+                        title: "Translation"
+                    - lang-det:
+                        title: "Language Detection"
+                    - lang:
+                        title: "Language"
+                    - nlp:
+                        title: "NLP"
+                    - sentiment-anal:
+                        title: "Sentiment Analysis"
+                    - speech-txt:
+                        title: "Speech-to-Text"
+                    - txt-speech:
+                        title: "Text-to-Speech"
+              - web:
+                  title: "Web"
+                  categories:
+                    - pwa:
+                        title: "Progressive Web App"
+                    - amp:
+                        title: "AMP"
+                    - cntry-db:
+                        title: "Country Database"
+                    - crwlr:
+                        title: "Crawler"
+                    - srvr-usr-agnt:
+                        title: "Server User Agent"
+                    - rss:
+                        title: "RSS"
+        - db:
+            title: "Databases"
+            categories:
+              - query-builders:
+                  title: "Query Builders"
+                  categories:
+                    - sqlite:
+                        title: "SQLite Query Builder"
+                    - elasticsearch:
+                        title: "ElasticSearch Query Builder"
+                    - solr:
+                        title: "Solr Query Builder"
+                    - postgresql:
+                        title: "PostgreSQL Query Builder"
+                    - mongodb:
+                        title: "MongoDB Query Builder"
+                    - mysql:
+                        title: "MySQL Query Builder"
+                    - couchdb:
+                        title: "CouchDB Query Builder"
+              - orm-odm:
+                  title: "ORM/ODM"
+                  categories:
+                    - mysql:
+                        title: "MySQL ORM"
+                    - sqlite:
+                        title: "SQLite ORM"
+                    - elasticsearch:
+                        title: "ElasticSearch ORM"
+                    - couchdb:
+                        title: "CouchDB ODM"
+                    - mongodb:
+                        title: "MongoDB ODM"
+                    - postgresql:
+                        title: "PostgreSQL ORM"
+                    - redis:
+                        title: "Redis ORM"
+              - clients:
+                  title: "Database Clients"
+                  categories:
+                    - sqlite:
+                        title: "SQLite"
+                    - elasticsearch:
+                        title: "ElasticSearch"
+                    - json-db:
+                        title: "JSON Database"
+                    - couchdb:
+                        title: "CouchDB"
+                    - mongodb:
+                        title: "MongoDB"
+                    - postgresql:
+                        title: "PostgreSQL"
+                    - mysql:
+                        title: "MySQL"
+                    - redis:
+                        title: "Redis"
+                    - solr:
+                        title: "Solr"
+        - api:
+            title: "APIs"
+            categories:
+              - auth:
+                  title: "Authentication APIs"
+                  categories:
+                    - nutritional-db:
+                        title: "Nutritional Database API"
+                    - company-db:
+                        title: "Company Database API"
+              - cloud-storage:
+                  title: "Cloud Storage APIs"
+                  categories:
+                    - google-drive:
+                        title: "Google Drive API"
+                    - amazon-s3:
+                        title: "Amazon S3 API"
+                    - box:
+                        title: "Box API"
+                    - dropbox:
+                        title: "Dropbox API"
+                    - backblaze:
+                        title: "Backblaze API"
+              - cloud-plat:
+                  title: "Cloud Platform APIs"
+                  categories:
+                    - aws:
+                        title: "Amazon Web Services API"
+                    - microsoft-azure:
+                        title: "Microsoft Azure API"
+                    - heroku:
+                        title: "Heroku API"
+                    - google-cloud:
+                        title: "Google Cloud API"
+                    - digital-ocean:
+                        title: "Digital Ocean API"
+              - company:
+                  title: "Company APIs"
+                  categories:
+                    - twitch:
+                        title: "Twitch API"
+                    - job-search:
+                        title: "Job Search API"
+                    - microsoft:
+                        title: "Microsoft API"
+                    - yahoo:
+                        title: "Yahoo API"
+                    - google:
+                        title: "Google API"
+                    - yandex:
+                        title: "Yandex API"
+                    - baidu:
+                        title: "Baidu API"
+              - db:
+                  title: "Database APIs"
+                  categories:
+                    - sms:
+                        title: "SMS API"
+                    - google-places:
+                        title: "Google Places API"
+                    - dictionary:
+                        title: "Dictionary API"
+                    - lyrics:
+                        title: "Lyrics API"
+                    - business-db:
+                        title: "Business Database API"
+                    - movie-db:
+                        title: "Movie Database API"
+                    - news:
+                        title: "News API"
+                    - captcha:
+                        title: "Captcha API"
+                    - wikipedia:
+                        title: "Wikipedia API"
+                    - wikidata:
+                        title: "Wikidata API"
+                    - google-maps:
+                        title: "Google Maps API"
+                    - sports-db:
+                        title: "Sports Database API"
+                    - real-estate:
+                        title: "Real Estate API"
+              - dev:
+                  title: "Developer APIs"
+                  categories:
+                    - github:
+                        title: "GitHub API"
+                    - gitlab:
+                        title: "GitLab API"
+                    - bitbucket:
+                        title: "BitBucket API"
+                    - stackoverflow:
+                        title: "StackOverflow API"
+                    - firebase:
+                        title: "Firebase API"
+              - finance:
+                  title: "Finance APIs"
+                  categories:
+                    - paypal:
+                        title: "PayPal API"
+                    - shopping:
+                        title: "Shopping API"
+                    - stripe:
+                        title: "Stripe API"
+                    - stock:
+                        title: "Stock API"
+                    - ebay:
+                        title: "eBay API"
+                    - aliexpress:
+                        title: "AliExpress API"
+                    - amazon:
+                        title: "Amazon API"
+              - leisure:
+                  title: "Leisure APIs"
+                  categories:
+                    - yelp:
+                        title: "Yelp API"
+                    - events:
+                        title: "Events API"
+                    - travel:
+                        title: "Travel API"
+                    - tripadvisor:
+                        title: "TripAdvisor API"
+                    - transportation:
+                        title: "Transportation API"
+                    - restaurant:
+                        title: "Restaurant API"
+              - media:
+                  title: "Media APIs"
+                  categories:
+                    - itunes:
+                        title: "iTunes API"
+                    - netflix:
+                        title: "Netflix API"
+                    - lastfm:
+                        title: "Last.fm API"
+                    - advertising:
+                        title: "Advertising API"
+                    - youtube:
+                        title: "YouTube API"
+                    - spotify:
+                        title: "Spotify API"
+                    - imgur:
+                        title: "Imgur API"
+              - search:
+                  title: "Search APIs"
+                  categories:
+                    - google:
+                        title: "Google Search API"
+                    - search:
+                        title: "Search API"
+                    - yahoo:
+                        title: "Yahoo Search API"
+                    - bing:
+                        title: "Bing Search API"
+              - security:
+                  title: "Security APIs"
+                  categories:
+                    - recipe-db:
+                        title: "Recipe Database API"
+                    - google-login:
+                        title: "Google Login API"
+                    - twitter-login:
+                        title: "Twitter Login API"
+              - shopping:
+                  title: "Shopping APIs"
+                  categories:
+                    - user-agent:
+                        title: "User Agent API"
+                    - dns:
+                        title: "DNS API"
+                    - whois:
+                        title: "WHOIS API"
+                    - scraper:
+                        title: "Scraper API"
+              - social:
+                  title: "Social APIs"
+                  categories:
+                    - reddit:
+                        title: "Reddit API"
+                    - facebook:
+                        title: "Facebook API"
+                    - twitter:
+                        title: "Twitter API"
+                    - email:
+                        title: "Email API"
+                    - snapchat:
+                        title: "Snapchat API"
+                    - linkedin:
+                        title: "LinkedIn API"
+                    - telegram:
+                        title: "Telegram API"
+                    - discord:
+                        title: "Discord API"
+                    - whatsapp:
+                        title: "WhatsApp API"
+                    - facebook-messenger:
+                        title: "Facebook Messenger API"
+                    - instagram:
+                        title: "Instagram API"
+                    - vk:
+                        title: "VK API"
+                    - twilio:
+                        title: "Twilio API"
+                    - stack:
+                        title: "Stack API"
+                    - sendgrid:
+                        title: "SendGrid API"
+              - transportation:
+                  title: "Transportation APIs"
+                  categories:
+                    - apple:
+                        title: "Apple API"
+                    - shipment:
+                        title: "Shipment API"
+              - vis:
+                  title: "Visualization APIs"
+                  categories:
+                    - charts:
+                        title: "Charts API"
+                    - flights:
+                        title: "Flights API"
+              - web:
+                  title: "Web APIs"
+                  categories:
+                    - email-ver:
+                        title: "Email Verification API"
+                    - gh-login:
+                        title: "GitHub Login API"
+                    - fb-login:
+                        title: "Facebook Login API"
+                    - mfa:
+                        title: "Multi-Factor Authentication API"
+                    - url-short:
+                        title: "URL Shortener API"
+                    - phone-ver:
+                        title: "Phone Verification API"
+              - world:
+                  title: "World APIs"
+                  categories:
+                    - weather:
+                        title: "Weather API"
+                    - world-times:
+                        title: "World Times API"
+                    - payment:
+                        title: "Payment API"
+                    - finance:
+                        title: "Finance API"
+                    - ip-geolocation:
+                        title: "IP Geolocation API"
+                    - zipcodes:
+                        title: "Zipcodes API"
+                    - maps:
+                        title: "Maps API"
+              - other:
+                  title: "Other APIs"
+                  categories:
+                    - quotes:
+                        title: "Quotes API"
+                    - facts:
+                        title: "Facts API"
+                    - jokes:
+                        title: "Jokes API"
+        - utils:
+            title: "Utilities"
+            categories:
+              - build-tools:
+                  title: "Build Tools"
+                  categories:
+                    - build:
+                        title: "Build"
+                    - bundler:
+                        title: "Bundler"
+                    - bundle-anal:
+                        title: "Bundle Analysis"
+                    - dep-anal:
+                        title: "Dependency Analyzer"
+                    - doc-gen:
+                        title: "Documentation Generator"
+                    - hot-reload:
+                        title: "Hot Reload"
+                    - minifiers:
+                        title: "Minifiers"
+                    - pkg-release:
+                        title: "Package Release"
+              - client-server:
+                  title: "Client & Server Utilities"
+                  categories:
+                    - benchmarking:
+                        title: "Benchmarking"
+                    - browser-hist:
+                        title: "Browser History"
+                    - config-mgmt:
+                        title: "Configuration Management"
+                    - cookies:
+                        title: "Cookies"
+                    - debugging:
+                        title: "Debugging"
+                    - file-opening:
+                        title: "File Opening"
+                    - file-saving:
+                        title: "File Saving"
+                    - google-anal:
+                        title: "Google Analytics"
+                    - http-header:
+                        title: "HTTP Header"
+                    - http-req:
+                        title: "HTTP Request"
+                    - localstorage:
+                        title: "localStorage"
+                    - logging:
+                        title: "Logging"
+                    - profiling:
+                        title: "Profiling"
+                    - state-mgmt:
+                        title: "State Management"
+                    - timer:
+                        title: "Timer"
+                    - user-agent:
+                        title: "User Agent Parsing"
+              - testing:
+                  title: "Testing"
+                  categories:
+                    - assertion:
+                        title: "Assertion"
+                    - assertion-http:
+                        title: "Assertion HTTP"
+                    - lint-rules:
+                        title: "Lint Rules"
+                    - mocking:
+                        title: "Mocking"
+                    - test-coverage:
+                        title: "Test Coverage"
+                    - test-framework:
+                        title: "Testing Framework"
+                    - test-reporting:
+                        title: "Test Reporting"
+                    - test-runner:
+                        title: "Test Runner"
+              - programming:
+                  title: "Programming"
+                  categories:
+                    - async:
+                        title: "Async"
+                    - control-flow:
+                        title: "Control Flow"
+                    - decorators:
+                        title: "Decorators"
+                    - dep-inj:
+                        title: "Dependency Injection"
+                    - eval:
+                        title: "Eval"
+                    - functional:
+                        title: "Functional Programming"
+                    - reactive:
+                        title: "Reactive Programming"
+              - data-struct:
+                  title: "Data Structures"
+                  categories:
+                    - linked-list:
+                        title: "Linked List"
+                    - tree-struct:
+                        title: "Tree Structure"
+                    - hash-table:
+                        title: "Hash Table"
+                    - graph-struct:
+                        title: "Graph Structure"
+                    - trie:
+                        title: "Trie"
+                    - queue:
+                        title: "Queue"
+                    - heap:
+                        title: "Heap"
+                    - immutable:
+                        title: "Immutable"
+              - regional:
+                  title: "Regional"
+                  categories:
+                    - l10n:
+                        title: "Localization"
+                    - i18n:
+                        title: "Internationalization"
+                    - date:
+                        title: "Date"
+                    - tz:
+                        title: "Timezone"
+                    - holidays:
+                        title: "Holidays"
+                    - currency:
+                        title: "Currency"
+                    - num-fmt:
+                        title: "Number Formatting"
+              - security:
+                  title: "Security"
+                  categories:
+                    - auth:
+                        title: "Authentication"
+                    - captcha:
+                        title: "Captcha"
+                    - cors:
+                        title: "CORS"
+                    - crypt:
+                        title: "Cryptography"
+                    - data-val:
+                        title: "Data Validation"
+                    - email-val:
+                        title: "Email Validation"
+                    - encrypt:
+                        title: "Encryption"
+                    - hashing:
+                        title: "Hashing"
+                    - oauth:
+                        title: "OAuth"
+                    - session-mgmt:
+                        title: "Session Management"
+                    - user-mgmt:
+                        title: "User Management"
+                    - uuid:
+                        title: "UUID"
+                    - xss:
+                        title: "XSS"
+                    - xss-sani:
+                        title: "XSS Sanitizer"
+              - seo:
+                  title: "SEO"
+                  categories:
+                    - sitemap:
+                        title: "Sitemap"
+                    - meta-tags:
+                        title: "Meta Tags"
+  - software:
+      title: "Software Development"
